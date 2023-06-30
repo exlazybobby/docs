@@ -1,4 +1,4 @@
-# 张脏包的QQ号：476515621
+张脏包的QQ号：476515621
 
 # Docker常用
 
@@ -256,12 +256,6 @@ https://github.com/kingToolbox/WindTerm
 
 
 
-# GIT操作
-
-```sh
-git clone https://github.com/zabbix/zabbix-docker.git --config "http.proxy=192.168.1.77:12343"
-```
-
 # DeepbioGroupData
 
 #### 爬虫管理平台使用
@@ -311,149 +305,6 @@ cd /backup/share/group_data
 # 服务启动
 python3 -m http.server 9091
 ```
-
-
-
-# EDU邮箱
-
-```tex
-101344@yzpc.edu.cn
-
-mtravisp4954@student.palomar.edu---Zjdw86m3alVH
-
-tstapp31896@student.napavalley.edu---072456
-
-161002218@stu.cuz.edu.cn
-
-101344@yzpc.edu.cn
-
-
-
-
-
-Name: **Bradley Davis**
-
-Your ASURITE User ID: **bdavis99**
-
-Your ASU Email Address: **bdavis99@asu.edu**
-
-Forwarding ASU Emails To: **bradleydavis6847@karenkey.com**
-
-
-
-Bin.xu2022
-
-
-
-临时邮箱：bradleydavis6847@karenkey.com
-临邮密码：Eat.pan-22
-Last Name:Davis
-出生日期：2005-9-22
-SSN:333126847
-激活连接：https://weblogin.asu.edu/password/activation?src=email&code=zu5-qnc-i
-
-Name: Fred Carson
-Your ASURITE User ID: fcarson2
-Your ASU Email Address: fcarson2@asu.edu
-Forwarding ASU Emails To: fredcarson1413@karenkey.com
-账号密码：Bin.xu2022
-
-临时邮箱：fredcarson1413@karenkey.com
-临邮密码：Eat.pan-22
-
-benchsci账号：fcarson2@asu.edu
-benchsci密码：Bin.xu2022
-
-
-
-临时邮箱：timothymartin4238@karenkey.com
-临邮密码：Eat.pan-22
-Last Name: Martin
-出生日期：2004-1-7
-SSN：322114238
-激活连接：https://weblogin.asu.edu/password/activation?src=email&code=4ws-pui-n
-
-Name: Timothy Martin
-Your ASURITE User ID: tmart127
-Your ASU Email Address: tmart127@asu.edu
-Forwarding ASU Emails To: timothymartin4238@karenkey.com
-
-benchsci账号：tmart127@asu.edu
-benchsci密码：Bin.xu2022
-
-
-临时邮箱：reneeorr1436@karenkey.com
-临邮密码：Eat.pan-22
-Last Name: Orr
-出生日期：2004-3-5
-SSN: 677111436
-激活地址：https://weblogin.asu.edu/password/activation?src=email&code=ihg-xbb-5
-
-Name: Renee Orr
-Your ASURITE User ID: rorr8
-Your ASU Email Address: rorr8@asu.edu
-Forwarding ASU Emails To: reneeorr1436@karenkey.com
-
-benchsci账号：rorr8@asu.edu
-benchsci密码：Bin.xu2022
-
-
-
-临时邮箱：amyjones3581@karenkey.com
-临邮密码：Eat.pan-22
-Last Name: Jones
-出生日期：2005-5-18
-SSN: 533723581
-激活连接：https://weblogin.asu.edu/password/activation?src=email&code=fhf-f3q-z
-
-Name: Amy Jones
-Your ASURITE User ID: ajone221
-Your ASU Email Address: ajone221@asu.edu
-Forwarding ASU Emails To: amyjones3581@karenkey.com
-
-benchsci账号：ajone221@asu.edu
-benchsci密码：Bin.xu2022
-
-用户名9584514852@mail.alumni.edu.vn密码Juy20793登录地址请一定返回该商品购买页查看商品描述,教程查看密码eduvn
-
-登陆网址：https://outlook.live.com/owa/
-邮箱：9584514852@mail.alumni.edu.vn
-密码：Bin.xu@2021
-密保信息见下图
-身份验证电子邮件 设置为 loki_bin@163.com
-
-
-elizabeth.dibella@sus.edu	
-dibe8820
-ethel_sheppard_00@subr.edu 
-Subr#050700
-登入地址
-https://outlook.office.com/mail
-
-南昌工程学院（需企业微信登陆）
-http://mail.nit.edu.cn
-2018103073@nit.edu.cn
-x!8oOJhZ*fny
-
-福州大学
-https://mail.fzu.edu.cn/
-251502129@fzu.edu.cn
-FdY7&k^o
-
-@student.palomar.edu
-@student.napavalley.edu
-@karenkey.com
-@subr.edu
-@sus.edu
-@asu.edu
-@yzpc.edu.cn
-@stu.cuz.edu.cn
-@yzpc.edu.cn
-
-
-```
-
-<img src="/Users/xubin/Library/Application Support/typora-user-images/截屏2022-12-12 11.06.34.png" alt="截屏2022-12-12 11.06.34" style="zoom:50%;" />
 
 
 
@@ -637,7 +488,7 @@ pm2 start main.py -x --interpreter python3
 - python学习
 
   https://github.com/jackfrued/Python-100-Days
-  
+
 - 人工智能
 
   https://github.com/tangyudi/Ai-Learn/tree/master
@@ -870,7 +721,6 @@ services:
 ```
 
 ```yaml
-
 # 路径/opt/kafka/
 # 查看topic状态
 ./bin/kafka-topics.sh --describe --zookeeper 192.168.1.77:2181 --topic mytopic
@@ -1046,6 +896,7 @@ sudo apt autoremove
 
 
 ## 收藏网页
+
 https://baijiahao.baidu.com/s?id=1739742102343446593&wfr=spider&for=pc
 
 
@@ -1066,5 +917,323 @@ https://baijiahao.baidu.com/s?id=1739742102343446593&wfr=spider&for=pc
    df = pd.DataFrame(list(collection.find()))
    ```
 
-2. 
+
+
+# Git 详细操作命令大全
+
+![图片](https://img-blog.csdnimg.cn/447096e083ba4a4c83794addd2b102fd.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAZmxvcmFjaHk=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+
+
+下面是常用 的Git 命令清单。几个专用名词的译名如下：
+
+Workspace：工作区
+Index / Stage：暂存区
+Repository：仓库区（或本地仓库）
+Remote：远程仓库
+
+### 使用代理
+
+```shell
+git clone https://github.com/zabbix/zabbix-docker.git --config "http.proxy=192.168.1.77:12343"
+```
+
+#### 新建代码库
+
+```shell
+# 在当前目录新建一个Git代码库
+$ git init
+
+# 新建一个目录，将其初始化为Git代码库
+$ git init [project-name]
+
+# 下载一个项目和它的整个代码历史
+$ git clone [url]
+
+```
+
+### 配置
+
+Git的设置文件为.gitconfig，它可以在用户主目录下（全局配置），也可以在项目目录下（项目配置）。
+
+```shell
+# 显示当前的Git配置
+$ git config --list
+
+# 编辑Git配置文件
+$ git config -e [--global]
+
+# 设置提交代码时的用户信息
+$ git config [--global] user.name "[name]"
+$ git config [--global] user.email "[email address]"
+```
+
+### 增加/删除文件
+
+```shell
+# 添加指定文件到暂存区
+$ git add [file1] [file2] ...
+
+# 添加指定目录到暂存区，包括子目录
+$ git add [dir]
+
+# 添加当前目录的所有文件到暂存区
+$ git add .
+
+# 添加每个变化前，都会要求确认
+# 对于同一个文件的多处变化，可以实现分次提交
+$ git add -p
+
+# 删除工作区文件，并且将这次删除放入暂存区
+$ git rm [file1] [file2] ...
+
+# 停止追踪指定文件，但该文件会保留在工作区
+$ git rm --cached [file]
+
+# 改名文件，并且将这个改名放入暂存区
+$ git mv [file-original] [file-renamed]
+
+```
+
+### 代码提交
+
+```shell
+# 提交暂存区到仓库区
+$ git commit -m [message]
+
+# 提交暂存区的指定文件到仓库区
+$ git commit [file1] [file2] ... -m [message]
+
+# 提交工作区自上次commit之后的变化，直接到仓库区
+$ git commit -a
+
+# 提交时显示所有diff信息
+$ git commit -v
+
+# 使用一次新的commit，替代上一次提交
+# 如果代码没有任何新变化，则用来改写上一次commit的提交信息
+$ git commit --amend -m [message]
+
+# 重做上一次commit，并包括指定文件的新变化
+$ git commit --amend [file1] [file2] ...
+
+```
+
+### 分支
+
+```shell
+# 列出所有本地分支
+$ git branch
+
+# 列出所有远程分支
+$ git branch -r
+
+# 列出所有本地分支和远程分支
+$ git branch -a
+
+# 新建一个分支，但依然停留在当前分支
+$ git branch [branch-name]
+
+# 新建一个分支，并切换到该分支
+$ git checkout -b [branch]
+
+# 新建一个分支，指向指定commit
+$ git branch [branch] [commit]
+
+# 新建一个分支，与指定的远程分支建立追踪关系
+$ git branch --track [branch] [remote-branch]
+
+# 切换到指定分支，并更新工作区
+$ git checkout [branch-name]
+
+# 切换到上一个分支
+$ git checkout -
+
+# 建立追踪关系，在现有分支与指定的远程分支之间
+$ git branch --set-upstream [branch] [remote-branch]
+
+# 合并指定分支到当前分支
+$ git merge [branch]
+
+# 选择一个commit，合并进当前分支
+$ git cherry-pick [commit]
+
+# 删除分支
+$ git branch -d [branch-name]
+
+# 删除远程分支
+$ git push origin --delete [branch-name]
+$ git branch -dr [remote/branch]
+	
+```
+
+### 标签
+
+```shell
+# 列出所有tag
+$ git tag
+
+# 新建一个tag在当前commit
+$ git tag [tag]
+
+# 新建一个tag在指定commit
+$ git tag [tag] [commit]
+
+# 删除本地tag
+$ git tag -d [tag]
+
+# 删除远程tag
+$ git push origin :refs/tags/[tagName]
+
+# 查看tag信息
+$ git show [tag]
+
+# 提交指定tag
+$ git push [remote] [tag]
+
+# 提交所有tag
+$ git push [remote] --tags
+
+# 新建一个分支，指向某个tag
+$ git checkout -b [branch] [tag]
+
+```
+
+### 查看信息
+
+```shell
+# 显示有变更的文件
+$ git status
+
+# 显示当前分支的版本历史
+$ git log
+
+# 显示commit历史，以及每次commit发生变更的文件
+$ git log --stat
+
+# 搜索提交历史，根据关键词
+$ git log -S [keyword]
+
+# 显示某个commit之后的所有变动，每个commit占据一行
+$ git log [tag] HEAD --pretty=format:%s
+
+# 显示某个commit之后的所有变动，其"提交说明"必须符合搜索条件
+$ git log [tag] HEAD --grep feature
+
+# 显示某个文件的版本历史，包括文件改名
+$ git log --follow [file]
+$ git whatchanged [file]
+
+# 显示指定文件相关的每一次diff
+$ git log -p [file]
+
+# 显示过去5次提交
+$ git log -5 --pretty --oneline
+
+# 显示所有提交过的用户，按提交次数排序
+$ git shortlog -sn
+
+# 显示指定文件是什么人在什么时间修改过
+$ git blame [file]
+
+# 显示暂存区和工作区的差异
+$ git diff
+
+# 显示暂存区和上一个commit的差异
+$ git diff --cached [file]
+
+# 显示工作区与当前分支最新commit之间的差异
+$ git diff HEAD
+
+# 显示两次提交之间的差异
+$ git diff [first-branch]...[second-branch]
+
+# 显示今天你写了多少行代码
+$ git diff --shortstat "@{0 day ago}"
+
+# 显示某次提交的元数据和内容变化
+$ git show [commit]
+
+# 显示某次提交发生变化的文件
+$ git show --name-only [commit]
+
+# 显示某次提交时，某个文件的内容
+$ git show [commit]:[filename]
+
+# 显示当前分支的最近几次提交
+$ git reflog
+
+```
+
+### 远程同步
+
+```shell
+# 下载远程仓库的所有变动
+$ git fetch [remote]
+
+# 显示所有远程仓库
+$ git remote -v
+
+# 显示某个远程仓库的信息
+$ git remote show [remote]
+
+# 增加一个新的远程仓库，并命名
+$ git remote add [shortname] [url]
+
+# 取回远程仓库的变化，并与本地分支合并
+$ git pull [remote] [branch]
+
+# 上传本地指定分支到远程仓库
+$ git push [remote] [branch]
+
+# 强行推送当前分支到远程仓库，即使有冲突
+$ git push [remote] --force
+
+# 推送所有分支到远程仓库
+$ git push [remote] --all
+
+```
+
+### 撤销
+
+```shell
+# 恢复暂存区的指定文件到工作区
+$ git checkout [file]
+
+# 恢复某个commit的指定文件到暂存区和工作区
+$ git checkout [commit] [file]
+
+# 恢复暂存区的所有文件到工作区
+$ git checkout .
+
+# 重置暂存区的指定文件，与上一次commit保持一致，但工作区不变
+$ git reset [file]
+
+# 重置暂存区与工作区，与上一次commit保持一致
+$ git reset --hard
+
+# 重置当前分支的指针为指定commit，同时重置暂存区，但工作区不变
+$ git reset [commit]
+
+# 重置当前分支的HEAD为指定commit，同时重置暂存区和工作区，与指定commit一致
+$ git reset --hard [commit]
+
+# 重置当前HEAD为指定commit，但保持暂存区和工作区不变
+$ git reset --keep [commit]
+
+# 新建一个commit，用来撤销指定commit
+# 后者的所有变化都将被前者抵消，并且应用到当前分支
+$ git revert [commit]
+
+# 暂时将未提交的变化移除，稍后再移入
+$ git stash
+$ git stash pop
+```
+
+### 其他
+
+```shell
+# 生成一个可供发布的压缩包
+$ git archive
+```
 
